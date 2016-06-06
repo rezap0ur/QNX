@@ -6,7 +6,7 @@ The project has started with:
 1- Rate Monotonic Periodic Task (already done, required improvements)   
 2- Deadline Monotonic   
 3- Earliest Deadline First    
-4- Latest Deadline Firs
+4- Latest Deadline First  
 5- Timer synchronization (problem in QNX timer which tick time is 183ns less than 1 sec)    
 6- Process Utilization Bound (already done Hyperboulic Bound & Liu&Layland Bound guarantee tests )   
 7- Response Time Analysis   
